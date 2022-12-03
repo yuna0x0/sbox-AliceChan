@@ -17,7 +17,7 @@
       "Metadata": {
         "SingleAssetSource": "models/alice_chan.vmdl",
         "Summary": "A cute VRoid character, Alice Chan!",
-        "Description": "A cute VRoid character, Alice Chan!",
+        "Description": "A cute VRoid character, Alice Chan! (in s\u0026box / Source 2 .vmdl format)",
         "Public": true,
         "ReplaceTags": "anime vroid toon mtoon"
       }
