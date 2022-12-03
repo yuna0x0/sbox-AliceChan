@@ -1,0 +1,26 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Alice Chan (MToon)",
+      "Type": "model",
+      "Org": "edison",
+      "Ident": "alice_chan",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "RootNamespace": null,
+      "Metadata": {
+        "SingleAssetSource": "models/alice_chan.vmdl",
+        "Summary": "A cute VRoid character, Alice Chan!",
+        "Description": "A cute VRoid character, Alice Chan!",
+        "Public": true,
+        "ReplaceTags": "anime vroid toon mtoon"
+      }
+    }
+  }
+}
