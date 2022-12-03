@@ -2,7 +2,7 @@
 
 Layer0
 {
-	shader "mtoon.vfx"
+	shader "mtoon.shader"
 
 	//---- MToon Lighting ----
 	F_USE_NORMAL_MAP 1
