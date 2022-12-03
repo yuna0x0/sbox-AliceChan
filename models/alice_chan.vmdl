@@ -216,8 +216,8 @@
 						surface_prop = "flesh"
 						collision_tags = "solid"
 						radius = 7.0
-						point0 = [ 7.089515, -0.080093, -0.317383 ]
-						point1 = [ -6.806002, 0.024028, 0.406283 ]
+						point0 = [ 7.089516, -0.084907, -0.316225 ]
+						point1 = [ -6.806002, 0.023702, 0.406361 ]
 					},
 					{
 						_class = "PhysicsShapeCapsule"
@@ -225,8 +225,8 @@
 						surface_prop = "flesh"
 						collision_tags = "solid"
 						radius = 7.0
-						point0 = [ -0.348513, 5.867255, -1.351275 ]
-						point1 = [ -0.305747, 15.166512, -0.522566 ]
+						point0 = [ -0.108164, 5.562534, -1.352231 ]
+						point1 = [ -0.057954, 24.667423, -2.024413 ]
 					},
 					{
 						_class = "PhysicsShapeCapsule"
@@ -234,8 +234,8 @@
 						surface_prop = "flesh"
 						collision_tags = "solid"
 						radius = 5.00001
-						point0 = [ 0.0, 0.0, 0.0 ]
-						point1 = [ -0.000041, 0.0, 0.0 ]
+						point0 = [ -0.00007, 0.962862, -0.120454 ]
+						point1 = [ -0.000171, 1.791169, -0.224075 ]
 					},
 					{
 						_class = "PhysicsShapeCapsule"
@@ -252,7 +252,7 @@
 						surface_prop = "flesh"
 						collision_tags = "solid"
 						radius = 5.0
-						point0 = [ -0.111984, -0.10787, -1.049973 ]
+						point0 = [ 0.154235, 6.806786, -0.102487 ]
 						point1 = [ 0.26416, 9.661931, 0.288742 ]
 					},
 					{
@@ -288,7 +288,7 @@
 						surface_prop = "flesh"
 						collision_tags = "solid"
 						radius = 5.0
-						point0 = [ 0.102478, 0.81765, -1.183896 ]
+						point0 = [ 0.454818, 6.618865, -0.338344 ]
 						point1 = [ 0.693108, 10.542273, 0.233509 ]
 					},
 					{
