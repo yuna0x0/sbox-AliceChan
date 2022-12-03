@@ -1,0 +1,64 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "mtoon.vfx"
+
+	//---- MToon Lighting ----
+	F_USE_NORMAL_MAP 1
+
+	//---- Rendering ----
+	F_RENDER_BACKFACES 1
+	F_RENDERING_TYPE 1 // Cutout
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Material ----
+	g_flTintColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureAmbientOcclusion "materials/default/default_ao.tga"
+	TextureBlendMask "materials/default/default_blend.tga"
+	TextureColor "materials/default/default_color.tga"
+	TextureMetalness "materials/default/default_metal.tga"
+	TextureNormal "textures/shader_nonenormal.normal.png"
+	TextureRoughness "materials/default/default_rough.tga"
+	TextureTranslucency "materials/default/default_trans.tga"
+
+	//---- MToon Color ----
+	Cutoff "0.500"
+	InputLitTexture "textures/_14.png"
+	InputShadeTexture "textures/_14.png"
+	LitColor "[0.886275 0.886275 0.886275 1.000000]"
+	ShadeColor "[0.835294 0.835294 0.835294 1.000000]"
+
+	//---- MToon Emission ----
+	EmissionColor "[0.000000 0.000000 0.000000 1.000000]"
+	InputEmissionMap "textures/shader_noneblack.png"
+	InputMatCap "textures/matcapwarp_01.png"
+
+	//---- MToon Lighting ----
+	IndirectLightIntensity "0.000"
+	InputShadingGradeTexture "[1.000000 1.000000 1.000000 1.000000]"
+	LightColorAttenuation "0.000"
+	ShadingGradeRate "1.000"
+	ShadingShift "0.000"
+	ShadingToony "0.900"
+
+	//---- MToon Rim ----
+	InputRimTexture "[1.000000 1.000000 1.000000 1.000000]"
+	RimColor "[0.250980 0.250980 0.250980 1.000000]"
+	RimFresnelPower "100.000"
+	RimLift "0.100"
+	RimLightingMix "0.000"
+
+	//---- Texture Coordinates ----
+	g_nScaleTexCoordUByModelScaleAxis "0"
+	g_nScaleTexCoordVByModelScaleAxis "0"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+}
