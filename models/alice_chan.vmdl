@@ -215,7 +215,7 @@
 						parent_bone = "J_Bip_C_Hips"
 						surface_prop = "flesh"
 						collision_tags = "solid"
-						radius = 9.0
+						radius = 7.0
 						point0 = [ 7.089515, -0.080093, -0.317383 ]
 						point1 = [ -6.806002, 0.024028, 0.406283 ]
 					},
@@ -224,9 +224,9 @@
 						parent_bone = "J_Bip_C_Spine"
 						surface_prop = "flesh"
 						collision_tags = "solid"
-						radius = 11.0
-						point0 = [ 0.139114, 5.867413, -1.356312 ]
-						point1 = [ -0.038482, 23.361877, -2.139374 ]
+						radius = 7.0
+						point0 = [ -0.348513, 5.867255, -1.351275 ]
+						point1 = [ -0.305747, 15.166512, -0.522566 ]
 					},
 					{
 						_class = "PhysicsShapeCapsule"
@@ -427,7 +427,7 @@
 						_class = "PhysicsJointConical"
 						parent_body = "J_Bip_C_Spine"
 						child_body = "J_Bip_L_Shoulder"
-						anchor_origin = [ 4.385608, 31.44161, -2.929062 ]
+						anchor_origin = [ 0.665278, 31.596779, -2.933608 ]
 						anchor_angles = [ 83.945633, -93.063423, -91.17836 ]
 						collision_enabled = false
 						friction = 1.0
@@ -447,7 +447,7 @@
 						collision_enabled = false
 						friction = 1.0
 						enable_swing_limit = true
-						swing_limit = 60.0
+						swing_limit = 80.0
 						swing_offset_angle = [ 0.0, 0.0, 0.0 ]
 						enable_twist_limit = true
 						min_twist_angle = -19.0
@@ -484,7 +484,7 @@
 						_class = "PhysicsJointConical"
 						parent_body = "J_Bip_C_Spine"
 						child_body = "J_Bip_R_Shoulder"
-						anchor_origin = [ -5.97369, 31.589453, -2.933813 ]
+						anchor_origin = [ -0.691611, 31.589846, -2.933341 ]
 						anchor_angles = [ 88.758202, -7.959032, 174.403076 ]
 						collision_enabled = false
 						friction = 1.0
@@ -504,7 +504,7 @@
 						collision_enabled = false
 						friction = 1.0
 						enable_swing_limit = true
-						swing_limit = 60.0
+						swing_limit = 80.0
 						swing_offset_angle = [ 0.0, 0.0, 0.0 ]
 						enable_twist_limit = true
 						min_twist_angle = -19.0
