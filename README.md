@@ -7,7 +7,7 @@ A cute VRoid character, Alice Chan!
 
 Shader: MToon ([edisonlee55/sbox-MToon](https://github.com/edisonlee55/sbox-MToon))
 
-![180695600-667c9f8f-abeb-41b3-87d9-4b9086332cf1](https://user-images.githubusercontent.com/5277788/205443166-7394059b-c27d-4af9-8fb7-3720e4eddd9c.png)
+![alice_chan_banner](https://user-images.githubusercontent.com/5277788/205443166-7394059b-c27d-4af9-8fb7-3720e4eddd9c.png)
 
 ## License
 This work by [edisonlee55](https://github.com/edisonlee55) is licensed under a
