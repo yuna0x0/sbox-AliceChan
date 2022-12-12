@@ -1537,8 +1537,8 @@
 				]
 			},
 		]
-		model_archetype = "generic_actor_model"
-		primary_associated_entity = "generic_actor"
+		model_archetype = ""
+		primary_associated_entity = ""
 		anim_graph_name = ""
 		base_model_name = ""
 	}
