@@ -13,13 +13,6 @@ Layer0
 	//---- Rendering ----
 	F_RENDERING_TYPE 1 // Cutout
 
-	//---- Color ----
-	g_flModelTintAmount "1.000"
-	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-
-	//---- Fade ----
-	g_flFadeExponent "1.000"
-
 	//---- Material ----
 	g_flTintColor "[1.000000 1.000000 1.000000 0.000000]"
 	TextureAmbientOcclusion "materials/default/default_ao.tga"
@@ -56,11 +49,4 @@ Layer0
 	RimFresnelPower "100.000"
 	RimLift "0.100"
 	RimLightingMix "0.000"
-
-	//---- Texture Coordinates ----
-	g_nScaleTexCoordUByModelScaleAxis "0"
-	g_nScaleTexCoordVByModelScaleAxis "0"
-	g_vTexCoordOffset "[0.000 0.000]"
-	g_vTexCoordScale "[1.000 1.000]"
-	g_vTexCoordScrollSpeed "[0.000 0.000]"
 }
