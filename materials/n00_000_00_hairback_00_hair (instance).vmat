@@ -18,6 +18,7 @@ Layer0
 	TextureMetalness "materials/default/default_metal.tga"
 	TextureNormal "textures/n00_000_00_hairback_00_nml.normal.png"
 	TextureRoughness "materials/default/default_rough.tga"
+	TextureTintMask "materials/default/default.tga"
 	TextureTranslucency "materials/default/default_trans.tga"
 
 	//---- MToon Color ----
