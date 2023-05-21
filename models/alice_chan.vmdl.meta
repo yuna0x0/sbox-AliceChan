@@ -13,6 +13,8 @@
       "ResourcePaths": null,
       "HasCode": false,
       "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
       "Metadata": {
         "SingleAssetSource": "models/alice_chan.vmdl",
         "Summary": "A cute VRoid character, Alice Chan!",
