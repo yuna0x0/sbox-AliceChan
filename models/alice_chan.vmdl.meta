@@ -6,11 +6,12 @@
       "Type": "model",
       "Org": "edison",
       "Ident": "alice_chan",
-      "Tags": "",
+      "Tags": "anime vroid toon mtoon",
       "Schema": 0,
       "HasAssets": false,
       "AssetsPath": null,
-      "ResourcePaths": null,
+      "Resources": null,
+      "MenuResources": null,
       "HasCode": false,
       "CodePath": null,
       "PackageReferences": null,
@@ -18,7 +19,7 @@
       "Metadata": {
         "SingleAssetSource": "models/alice_chan.vmdl",
         "Summary": "A cute VRoid character, Alice Chan!",
-        "Description": "A cute VRoid character, Alice Chan! (in s\u0026box / Source 2 .vmdl format)",
+        "Description": "A cute VRoid character, Alice Chan! (in s\u0026box / Source 2 .vmdl format)\n\n[Shader]\nMToon: https://github.com/edisonlee55/sbox-MToon\n\n[Source]\nhttps://github.com/edisonlee55/sbox-AliceChan\n\n[License]\nThis work by edisonlee55 is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
         "Public": true,
         "ReplaceTags": "anime vroid toon mtoon"
       }
