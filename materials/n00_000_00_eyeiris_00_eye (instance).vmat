@@ -2,7 +2,7 @@
 
 Layer0
 {
-	shader "shaders/mtoon.shader_c"
+	shader "shaders/mtoon.shader"
 
 	//---- Animation ----
 	F_MORPH_SUPPORTED 1
